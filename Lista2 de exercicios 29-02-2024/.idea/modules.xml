@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio1/Exercicio1.iml" filepath="$PROJECT_DIR$/Exercicio1/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio10/Exercicio10.iml" filepath="$PROJECT_DIR$/Exercicio10/Exercicio10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio11SWITCH/Exercicio11SWITCH.iml" filepath="$PROJECT_DIR$/Exercicio11SWITCH/Exercicio11SWITCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio12 SWITCH/Exercicio12 SWITCH.iml" filepath="$PROJECT_DIR$/Exercicio12 SWITCH/Exercicio12 SWITCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio13 SWITCH/Exercicio13 SWITCH.iml" filepath="$PROJECT_DIR$/Exercicio13 SWITCH/Exercicio13 SWITCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio14 SWITCH/Exercicio14 SWITCH.iml" filepath="$PROJECT_DIR$/Exercicio14 SWITCH/Exercicio14 SWITCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio15/Exercicio15.iml" filepath="$PROJECT_DIR$/Exercicio15/Exercicio15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio2/Exercicio2.iml" filepath="$PROJECT_DIR$/Exercicio2/Exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio5/Exercicio5.iml" filepath="$PROJECT_DIR$/Exercicio5/Exercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio6/Exercicio6.iml" filepath="$PROJECT_DIR$/Exercicio6/Exercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio7/Exercicio7.iml" filepath="$PROJECT_DIR$/Exercicio7/Exercicio7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio8/Exercicio8.iml" filepath="$PROJECT_DIR$/Exercicio8/Exercicio8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio9/Exercicio9.iml" filepath="$PROJECT_DIR$/Exercicio9/Exercicio9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Linguagem de Programação.iml" filepath="$PROJECT_DIR$/.idea/Linguagem de Programação.iml" />
+    </modules>
+  </component>
+</project>
