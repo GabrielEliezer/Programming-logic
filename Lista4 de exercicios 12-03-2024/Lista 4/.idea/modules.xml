@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio 10/Exercicio 10.iml" filepath="$PROJECT_DIR$/Exercicio 10/Exercicio 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio 11/Exercicio 11.iml" filepath="$PROJECT_DIR$/Exercicio 11/Exercicio 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio Diagonal Principal/Exercicio Diagonal Principal.iml" filepath="$PROJECT_DIR$/Exercicio Diagonal Principal/Exercicio Diagonal Principal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio02/Exercicio02.iml" filepath="$PROJECT_DIR$/Exercicio02/Exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio03/Exercicio03.iml" filepath="$PROJECT_DIR$/Exercicio03/Exercicio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio04/Exercicio04.iml" filepath="$PROJECT_DIR$/Exercicio04/Exercicio04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio05/Exercicio05.iml" filepath="$PROJECT_DIR$/Exercicio05/Exercicio05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio1.iml" filepath="$PROJECT_DIR$/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeReverso matriz/testeReverso matriz.iml" filepath="$PROJECT_DIR$/testeReverso matriz/testeReverso matriz.iml" />
+    </modules>
+  </component>
+</project>

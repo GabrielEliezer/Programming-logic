@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AULA ARRAY E MATRIZ.iml" filepath="$PROJECT_DIR$/AULA ARRAY E MATRIZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matriz/Matriz.iml" filepath="$PROJECT_DIR$/Matriz/Matriz.iml" />
+    </modules>
+  </component>
+</project>
