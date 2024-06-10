@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio 3/Exercicio 3.iml" filepath="$PROJECT_DIR$/Exercicio 3/Exercicio 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio1/Exercicio1.iml" filepath="$PROJECT_DIR$/Exercicio1/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio1 Recursividade/Exercicio1 Recursividade.iml" filepath="$PROJECT_DIR$/Exercicio1 Recursividade/Exercicio1 Recursividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio2/Exercicio2.iml" filepath="$PROJECT_DIR$/Exercicio2/Exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio2 Recursividade/Exercicio2 Recursividade.iml" filepath="$PROJECT_DIR$/Exercicio2 Recursividade/Exercicio2 Recursividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio3 Recursividade/Exercicio3 Recursividade.iml" filepath="$PROJECT_DIR$/Exercicio3 Recursividade/Exercicio3 Recursividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio4/Exercicio4.iml" filepath="$PROJECT_DIR$/Exercicio4/Exercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio4 Recursividade/Exercicio4 Recursividade.iml" filepath="$PROJECT_DIR$/Exercicio4 Recursividade/Exercicio4 Recursividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio5/Exercicio5.iml" filepath="$PROJECT_DIR$/Exercicio5/Exercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio5 Recursividade/Exercicio5 Recursividade.iml" filepath="$PROJECT_DIR$/Exercicio5 Recursividade/Exercicio5 Recursividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista de Exercicios 05.iml" filepath="$PROJECT_DIR$/Lista de Exercicios 05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RECURSIVIDADE/RECURSIVIDADE.iml" filepath="$PROJECT_DIR$/RECURSIVIDADE/RECURSIVIDADE.iml" />
     </modules>
   </component>
 </project>

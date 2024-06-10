@@ -11,12 +11,7 @@ public class Main {
         if (numero > 0) {
             int resultado = calcularSoma(numero);
             System.out.println("Soma: " + resultado);
-        } else {
-            System.out.println("Valor inválido!\nDigite um número maior que 0");
-            numero = entrada.nextInt();
         }
-
-        entrada.close();
     }
 
     static int calcularSoma(int valor) {
